@@ -23,6 +23,10 @@ LICENSE: [MIT](license.md)
 9. [**git branch**](./readmenine.md)
 10. [**git pull**](./readmeten.md)
 11. [**git push**](./readmeeleven.md)
+12. [**git status**](./readmetwelve.md)
+13. [**git log**](./readmethirteen.md)
+14. [**git show**](./readmefourteen.md)
+15. [**git reset**](./readmefifteen.md)
 
 ---
 
