@@ -15,9 +15,10 @@ LICENSE: [MIT](license.md)
 1. [**git config**](./readmeone.md) 
 2. [**git init**](./readmetwo.md) 
 3. [**git add**](./readmethree.md)
-
-
-
+4. [**git commit**](readmefour.md)
+5. [**git clone**](./readmefive.md)
+6. [**git remote**](./readmesix.md)
+7. [**git fetch**](./readmeseven.md)
 ---
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
